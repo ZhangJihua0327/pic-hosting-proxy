@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: pic-hosting-proxy
+    group: cn.lollipopzzz
+    version: 1.0
+
+oss:
+  prefix:
+    endpoint:
+    domain-of-bucket:
+    access-key-id: ####
+    access-key-secret: ####
+    bucket-name:
